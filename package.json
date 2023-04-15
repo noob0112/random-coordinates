@@ -1,0 +1,17 @@
+{
+  "name": "@mie/random-coordinates",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "noob0112",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "d3-geo": "^3.1.0",
+    "d3-random": "^3.0.1",
+    "topojson-client": "^3.1.0"
+  }
+}
